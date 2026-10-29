@@ -79,7 +79,7 @@ The call on the 2nd line above generates a bunch of stochatic realizations (-tR 
 
 ### Contribution guidelines ###
 
-* Writing tests
+* You will find code documentation (in LaTeX format) at the *DOCUMENTATION* directory
 * Code review
 * Other guidelines
 
